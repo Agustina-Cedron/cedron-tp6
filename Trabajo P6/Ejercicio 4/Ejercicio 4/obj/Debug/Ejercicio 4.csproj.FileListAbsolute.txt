@@ -1,0 +1,14 @@
+C:\Users\sabri\OneDrive\Escritorio\Cedron Agustina-PROYECTO\Trabajo P6\Ejercicio 4\Ejercicio 4\bin\Debug\Ejercicio 4.exe.config
+C:\Users\sabri\OneDrive\Escritorio\Cedron Agustina-PROYECTO\Trabajo P6\Ejercicio 4\Ejercicio 4\bin\Debug\Ejercicio 4.exe
+C:\Users\sabri\OneDrive\Escritorio\Cedron Agustina-PROYECTO\Trabajo P6\Ejercicio 4\Ejercicio 4\bin\Debug\Ejercicio 4.pdb
+C:\Users\sabri\OneDrive\Escritorio\Cedron Agustina-PROYECTO\Trabajo P6\Ejercicio 4\Ejercicio 4\obj\Debug\Ejercicio 4.csproj.AssemblyReference.cache
+C:\Users\sabri\OneDrive\Escritorio\Cedron Agustina-PROYECTO\Trabajo P6\Ejercicio 4\Ejercicio 4\obj\Debug\Ejercicio 4.csproj.CoreCompileInputs.cache
+C:\Users\sabri\OneDrive\Escritorio\Cedron Agustina-PROYECTO\Trabajo P6\Ejercicio 4\Ejercicio 4\obj\Debug\Ejercicio 4.exe
+C:\Users\sabri\OneDrive\Escritorio\Cedron Agustina-PROYECTO\Trabajo P6\Ejercicio 4\Ejercicio 4\obj\Debug\Ejercicio 4.pdb
+C:\Users\sabri\OneDrive\Documentos\LAB Y PROY\Cedron Agustina-PROYECTO\Trabajo P6\Ejercicio 4\Ejercicio 4\obj\Debug\Ejercicio 4.csproj.AssemblyReference.cache
+C:\Users\sabri\OneDrive\Documentos\LAB Y PROY\Cedron Agustina-PROYECTO\Trabajo P6\Ejercicio 4\Ejercicio 4\obj\Debug\Ejercicio 4.csproj.CoreCompileInputs.cache
+C:\Users\sabri\OneDrive\Documentos\LAB Y PROY\Cedron Agustina-PROYECTO\Trabajo P6\Ejercicio 4\Ejercicio 4\obj\Debug\Ejercicio 4.exe
+C:\Users\sabri\OneDrive\Documentos\LAB Y PROY\Cedron Agustina-PROYECTO\Trabajo P6\Ejercicio 4\Ejercicio 4\obj\Debug\Ejercicio 4.pdb
+C:\Users\sabri\OneDrive\Documentos\LAB Y PROY\Cedron Agustina-PROYECTO\Trabajo P6\Ejercicio 4\Ejercicio 4\bin\Debug\Ejercicio 4.exe.config
+C:\Users\sabri\OneDrive\Documentos\LAB Y PROY\Cedron Agustina-PROYECTO\Trabajo P6\Ejercicio 4\Ejercicio 4\bin\Debug\Ejercicio 4.exe
+C:\Users\sabri\OneDrive\Documentos\LAB Y PROY\Cedron Agustina-PROYECTO\Trabajo P6\Ejercicio 4\Ejercicio 4\bin\Debug\Ejercicio 4.pdb
